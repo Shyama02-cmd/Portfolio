@@ -28,4 +28,3 @@ A personal portfolio built with React, showcasing my projects and skills.
 - Lazy loading routes required Suspense fallback
 - Testing async form submissions handled via `user-event`
 
-View live: [https://yourdomain.com](https://yourdomain.com)
